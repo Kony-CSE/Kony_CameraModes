@@ -1,6 +1,6 @@
-To get started, first click the Download ZIP button to the right to download this tutorial's assets.
+The application showcases how to use the different camerea Modes in the Kony application.
 
-Camera
+Camera Modes
 ==================
 
 Application to showcase the Camera APIs
@@ -25,4 +25,6 @@ This Application will showcase the following features of the Camera APIs
  * Android
  * iPad
  
-CertifiedAtKonyCommunity
+# Supported Version
+ 
+  * 6.5 Studio and above
